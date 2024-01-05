@@ -5,7 +5,7 @@
 ### - The Fakerest API is used for testing purposes, and the data is static.
 ### - Due to the nature of the Fakerest API, modifications or deletions won't persist.
 ### - Make sure to adapt the tests or extend them based on your specific use cases.
-### - Most of the tests are similar despite that they are divided in 5 different folders (you can just check Activities and Books test folders) 
+### - Most of the tests are similar to each other despite that they are divided in 3 different folders 
 
 # Prerequisites
 ### Before running the tests, ensure that you have the following tools and resources installed:
