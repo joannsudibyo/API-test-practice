@@ -1,0 +1,15 @@
+{
+  "name": "login-demo-practice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dashboard": "npx cypress run --spec cypress/e2e/sauce-demo/login-page.cy.js --browser=chrome --tag testSmoke,regression --record --key 0ab7ba38-728e-4fa7-95cc-ee4cf14033f5"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^13.6.1"
+  }
+}
